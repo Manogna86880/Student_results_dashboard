@@ -25,10 +25,6 @@ The dashboard transforms raw academic data into meaningful insights by providing
 -  Quick overview of total and average marks  
 -  Simple and intuitive interface  
 
----
-
-##  Project Demo
-👉 https://youtu.be/eOLYoI6nSIM
 
 ---
 
