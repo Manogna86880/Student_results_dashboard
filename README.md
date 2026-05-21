@@ -51,7 +51,7 @@ The dashboard transforms raw academic data into meaningful insights by providing
 ---
 
 ##  Author
-**Vasanthi Rangu**
+**Poludasu Manogna**
 
 ---
 
